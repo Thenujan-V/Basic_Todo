@@ -1,0 +1,39 @@
+body{
+    height: 90vh;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #6F61C0;
+}
+.container{
+    background-color: #D5FFE4;
+    width: 300px;
+    height:400px;
+    border-radius: 30px;
+    
+}
+h2{
+    text-align: center;
+    color:#6F61C0;
+}
+.cls{
+    text-align: center;
+}
+.cls input{
+    width: 250px;
+    height: 30px;
+    border-radius: 10px;
+}
+.cls button{
+    width: 70px;
+    height:30px;
+    border-radius: 10px;
+    font-size: 15px;
+    margin: 12px;
+    cursor: pointer;
+    color: #D5FFE4;
+    background-color:#6F61C0;
+}
+#todoList{
+    font-size: 15px;
+}
